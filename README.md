@@ -19,7 +19,7 @@ This guid will also add a shorthand to windows's context menu.
 
 ![](images/CMDER.PNG)
 
-##VS Code
+## VS Code
 
 Extension that I se for JS development
 
